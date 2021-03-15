@@ -1,7 +1,7 @@
 // =======Options START=======
 var authConfig = {
   siteName: "THEALIFHAKER1 INDEX",
-  version: "1.0.0B",
+  version: "1.0.0C",
   theme: "AE1-INDEX",
   client_id: "202264815644.apps.googleusercontent.com",
   client_secret: "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
@@ -25,7 +25,7 @@ var authConfig = {
 var themeOptions = {
   cdn: "https://cdn.jsdelivr.net/gh/THEALIFHAKER1/AE1-INDEX",
   // 主题版本号
-  version: "1.0.0B",
+  version: "1.0.0C",
   //可选默认系统语言:en/zh-chs/zh-cht
   languages: "en",
   render: {
